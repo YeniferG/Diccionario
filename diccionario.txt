@@ -1,0 +1,7 @@
+Pollo = Chicken
+Hola = Hello
+Perro = Dog
+Amarillo = Yellow
+Mono = Monkey
+Carro = Car
+Tecnologia = Technology
